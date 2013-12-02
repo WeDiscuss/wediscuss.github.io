@@ -1,6 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://blog.wediscuss.cn
+name: WeDiscuss
+author: JunHan(俊涵)
+qq: 9408241
+email: junhan@wediscuss.cn
+duoshuo: WeDiscuss
+#beian: 
+#cnzz: 
+weibo: wediscuss
+github: wediscuss
 pygments: true
-relative_permalinks: false
-gauges_id: 503c5af6613f5d0f19000027
-permalink: /news/:year/:month/:day/:title/
-excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
-repository: https://github.com/mojombo/jekyll
+safe: true
+paginate: 20
+about: "WeDiscuss 是一个类似知乎以问答为基础的完全开源的社交网络建站程序，基于 .NET + SQL SERVER 应用架构，它集合了问答，digg，wiki 等多个程序的优点，帮助用户轻松搭建专业的知识 库和在线问答社区"
