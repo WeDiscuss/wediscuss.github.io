@@ -1,6 +1,6 @@
 ---
 author: wediscuss
-comments: false
+comments: true
 date: 2013-12-3 05:58:08+00:00
 layout: post
 slug: txt-php-blogs1
